@@ -1,0 +1,6 @@
+bin/*
+gen/*
+*.o
+*.o.d
+libs/armeabi/libblur.so
+libs/armeabi-v7a/libblur.so
